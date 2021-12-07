@@ -1,0 +1,6 @@
+train: ./train/train/images
+val: ./train/valid/images
+
+
+nc: 1
+names: ['bhodia']
