@@ -6,6 +6,7 @@ Training results: https://wandb.ai/thinkersloop/train/runs/u6ic3v4z?workspace=us
 # Getting Started
 
 ```
+$ pip install -r requirements.txt
 $ cd streamlit
 $ streamlit run app.py
 ```
